@@ -9,3 +9,5 @@ I love rubber duckies.
 - Grady Booch author of Object
 Oriented Analysis and Design with
 Applications
+
+Rubber duckies will one day rule this world!
